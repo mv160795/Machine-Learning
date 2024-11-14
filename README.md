@@ -9,8 +9,8 @@ person_age, person_gender, person_education, person_income, person_emp_exp, pers
 Column : 14
 Rows : 45000
 
-**Libraries :**
-Pandas and Numoy         ---> pandas to read raw data into data frame and numpy to perform operations on arrays.   
+**Libraries :**         
+Pandas and Numpy         ---> pandas to read raw data into data frame and numpy to perform operations on arrays.   
 Scikit-learn/Sklearn     ---> for ML models
 Matplotlib and Seaborn   ---> For data visualization
 
