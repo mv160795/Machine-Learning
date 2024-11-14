@@ -19,10 +19,10 @@ Scikit-learn (Sklearn): For building and evaluating machine learning models.
 Matplotlib: For data visualization and plotting.              
 Seaborn: For creating informative and attractive statistical graphics.                  
 
-**FILES**
-**Raw data**                         ---> loan_data.csv
-**Classification**                   ---> classification.ipynb
-**Data import and Preprocessing**    ---> data_import.py
+**FILES**                          
+**Raw data**                         ---> loan_data.csv                          
+**Classification**                   ---> classification.ipynb                      
+**Data import and Preprocessing**    ---> data_import.py                   
 
 **MODELS**   
 **Classification Models : **
