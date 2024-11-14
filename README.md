@@ -20,11 +20,11 @@ Naive Bayes
 Logistic                 
 Random Forest                     
 
-**Performance Matrics**
-Accuracy 
-Confuction Matrix 
-ROC Curve 
-Precision-Recall Curve 
+**Performance Matrics**               
+Accuracy               
+Confuction Matrix                
+ROC Curve                               
+Precision-Recall Curve                                           
 
 
 
