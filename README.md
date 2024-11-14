@@ -11,7 +11,7 @@ The dataset contains 14 columns and 45,000 rows with the following features:
 **Columns:**                                      
 person_age , person_gender , person_education , person_income , person_emp_exp , person_home_ownership , loan_amnt , loan_intent , loan_int_rate , loan_percent_income , cb_person_cred_hist_length , credit_score , previous_loan_defaults_on_file , loan_status                                                          
 
-**lIBRARIES**                               
+**LIBRARIES**                               
 This project uses the following Python libraries:       
 Pandas: For data manipulation and analysis.                      
 NumPy: For numerical operations on arrays.                          
