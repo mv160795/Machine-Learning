@@ -2,8 +2,8 @@
 The objective of this project is to build a predictive model that can determine whether a loan application will be approved (loan_status = 1) or denied (loan_status = 0). The model is trained using historical data that includes personal, financial, and loan-related details of applicants.
 
 **KEY FEATURES :**      
-**Column Transformer :** Powerful tool to apply different preprocessing steps on subsets of features (columns) in datase 
-**pipeline : ** It is a way to streamline machine learning workflows by chaining multiple steps, such as preprocessing and model training, into a single object      
+**Column Transformer :** Powerful tool to apply different preprocessing steps on subsets of features (columns) in dataset.                          
+**Pipeline :** It is a way to streamline machine learning workflows by chaining multiple steps, such as preprocessing and model training, into a single object.      
 
 **DATASET**                                       
 The dataset contains 14 columns and 45,000 rows with the following features:                  
