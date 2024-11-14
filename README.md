@@ -25,7 +25,7 @@ Seaborn: For creating informative and attractive statistical graphics.
 **Data import and Preprocessing**    ---> data_import.py                   
 
 **MODELS**   
-**Classification Models : **                                      
+**Classification Models :**                                      
 **Target Column :**  --->   loan_status                         
 1. K-Nearest Neighbors (KNN)                        
 2. Naive Bayes                        
